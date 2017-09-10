@@ -18,4 +18,7 @@ while state != "":
 
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 257a32b... Numbers_list prac_04
